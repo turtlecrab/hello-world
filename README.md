@@ -1,2 +1,2 @@
 # hello-world
-my first github repo
+Hello people make love not wars
